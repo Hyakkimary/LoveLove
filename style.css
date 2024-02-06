@@ -1,0 +1,24 @@
+<style>
+        body {
+            background-image: url(/Users/HomePC/Desktop/Love/your_background_image.jpg); 
+            background-size: cover;
+            color: #ffffff; /* цвет текста */
+            font-family: 'Arial', sans-serif; /* шрифт */
+            text-align: center;
+            padding: 50px;
+        }
+
+        #main-content {
+            background-color: rgba(0, 0, 0, 0.7); /* прозрачный черный фон */
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        h1 {
+            color: #ffcc00; /* цвет заголовка */
+        }
+
+        p {
+            font-size: 18px;
+        }
+    </style>
